@@ -1,0 +1,5 @@
+﻿  Tarea4_Katherine_Mayen_1129222.cpp
+C:\Users\kathe\source\repos\Lab4_Katherine_Mayen_1129222\Lab4_Katherine_Mayen_1129222\Tarea4_Katherine_Mayen_1129222.cpp(71): warning C4715: 'liebre': not all control paths return a value
+C:\Users\kathe\source\repos\Lab4_Katherine_Mayen_1129222\Lab4_Katherine_Mayen_1129222\Tarea4_Katherine_Mayen_1129222.cpp(83): warning C4715: 'tortuga': not all control paths return a value
+  Tarea4_Katherine_Mayen_1129222.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Lab4_Katherine_Mayen_1129222.vcxproj -> C:\Users\kathe\source\repos\Lab4_Katherine_Mayen_1129222\x64\Debug\Lab4_Katherine_Mayen_1129222.exe
